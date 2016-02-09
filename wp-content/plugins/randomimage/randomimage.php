@@ -14,9 +14,6 @@ Text Domain: randomimage
 */
 
 
-/*error_reporting (E_ALL);
-ini_set("display_errors", 1); */
-
 class randomimage { 
 	
 	public function __construct() 
